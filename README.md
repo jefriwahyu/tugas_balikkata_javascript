@@ -1,1 +1,10 @@
-# tugas_balikkata_javascript
+# Tugas Balik Kata Javascript
+
+<b>Tujuan : </b>
+<ul>
+  <li>Memahami cara balik kata javascript.</li>
+</ul>
+
+<b>Output in terminal : </b>
+
+![Tugas Balik Kata](https://user-images.githubusercontent.com/92837751/184507495-64d448eb-1232-4266-9e27-330cd6b1c372.jpg)
